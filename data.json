@@ -33,7 +33,7 @@
       "name": "มันคืออะไรอะ",
       "price": 0,
       "emoji": "🥀",
-      "available": true,
+      "available": false,
       "tags": ["เบเกอรี่"]
     }
   ]
